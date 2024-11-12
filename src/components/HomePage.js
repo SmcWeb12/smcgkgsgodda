@@ -28,7 +28,7 @@ const HomePage = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-500 to-indigo-600">
       {/* Heading Section */}
-      <h1 className="text-4xl font-bold text-white mb-4">Welcome to the Math Quiz</h1>
+      <h1 className="text-4xl font-bold text-white mb-4">Welcome to the SMC_Godda_GK_GS_Quiz</h1>
       <p className="mb-6 text-lg text-center text-white">
         Test your math skills! Join our quiz challenge and compete with others. Here are some features:
       </p>
